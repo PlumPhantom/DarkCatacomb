@@ -9,4 +9,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChssVibe&theme=dark)](https://git.io/streak-stats)
 
 ---
-#- for all the projects I worked in Chss
