@@ -6,6 +6,6 @@
  
 [![Laguage Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=ChssVibe&layout=compact&text_color=f2daf7&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChssVibe&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChssVibe&theme=synthwave)](https://git.io/streak-stats)
 
 ---
